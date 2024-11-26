@@ -1,0 +1,36 @@
+.cover {
+  width: calc(100% - 134px);
+  height: calc(100vh - 134px);
+  padding: 67px;
+  display: flex;
+}
+.spaceText {
+  width: 60%;
+  height: 200px;
+  /* background-color: rgb(77, 77, 189); */
+}
+.spaceImage {
+  width: 40%;
+  height: 100px;
+  /* background-color: red; */
+}
+.title {
+  color: var(--color-white);
+  font-family: var(--font-syne-v);
+  font-weight: 900;
+  font-size: 84px;
+}
+.textTitle {
+  font-family: inter, sans-serif;
+  font-size: 18px;
+  color: var(--color-grey);
+}
+.textPull {
+
+}
+.cardImage {
+
+}
+.textAbout {
+
+}

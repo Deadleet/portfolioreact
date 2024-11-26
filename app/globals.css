@@ -1,0 +1,15 @@
+:root {
+  --color-black :#1A1A1A;
+  --color-white: #D8E1F0;
+  --color-green: #67BC90;
+  --color-grey: #C7CACE;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-black);
+}
+.colorGreen {
+  color: var(--color-green);
+}
